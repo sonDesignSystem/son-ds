@@ -1,0 +1,23 @@
+{
+  "name": "@son-ds/react",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React components for Son Design System",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@son-ds/core": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18 || ^19"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "react-dom": "^18 || ^19"
+  },
+  "author": "Johnson Berisha",
+  "license": "MIT"
+}

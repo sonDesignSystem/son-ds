@@ -1,0 +1,10 @@
+{
+  "name": "son-ds",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
