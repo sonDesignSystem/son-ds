@@ -1,1 +1,1 @@
-export { Button } from './Button.js';
+export { SDSButton } from './Button.js';

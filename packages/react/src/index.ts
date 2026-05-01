@@ -1,1 +1,1 @@
-export { Button } from './components/Button/index.js';
+export { SDSButton } from './components/Button/index.js';
