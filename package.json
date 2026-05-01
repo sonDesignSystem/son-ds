@@ -1,6 +1,10 @@
 {
   "name": "son-ds",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonDesignSystem/son-ds.git"
+  },
   "workspaces": [
     "packages/*"
   ],
