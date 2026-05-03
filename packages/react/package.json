@@ -12,7 +12,7 @@
     }
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc && node ./copy-assets.mjs"
   },
   "dependencies": {
     "@son-ds/core": "*"
