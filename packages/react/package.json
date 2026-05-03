@@ -1,6 +1,6 @@
 {
   "name": "@son-ds/react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "React components for Son Design System",
   "main": "dist/index.js",
