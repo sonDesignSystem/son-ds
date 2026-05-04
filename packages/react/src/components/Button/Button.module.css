@@ -51,3 +51,8 @@
     padding: 0.75rem 1.5rem;
     font-size: 1.125rem;
 }
+
+/* Rounded */
+.rounded {
+    border-radius: 1000px;
+}
