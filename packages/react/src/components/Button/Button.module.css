@@ -8,17 +8,18 @@
 
 /* Variants */
 .primary {
-    background-color: #2563eb;
+    background-color: #1a1a1a;
     color: #ffffff;
+    border: 1px solid #333;
 }
 
 .primary:hover {
-    background-color: #1d4ed8;
+    background-color: #1f1f1f;
 }
 
 .secondary {
-    background-color: #4b5563;
-    color: #ffffff;
+    background-color: #333;
+    color: #999;
 }
 
 .secondary:hover {
@@ -27,12 +28,12 @@
 
 .outline {
     background-color: transparent;
-    color: #2563eb;
-    border: 2px solid #2563eb;
+    color: #999;
+    border: 1px solid #333;
 }
 
 .outline:hover {
-    background-color: #eff6ff;
+    background-color: #181818;
 }
 
 /* Sizes */
