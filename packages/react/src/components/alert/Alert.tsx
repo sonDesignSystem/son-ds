@@ -14,7 +14,7 @@ export const SDSAlert = React.forwardRef<HTMLDivElement, AlertProps>(({ variant 
         .filter(Boolean)
         .join(' ');
     return (
-        <div ref={ref} className={classNames} />
+        <div ref={ref} className={classNames} {...props} />
     );
 }
 );
